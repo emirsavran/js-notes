@@ -5,6 +5,8 @@ Notes About JavaScript
 
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Practical Node](https://github.com/azat-co/practicalnode)
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## General
 
