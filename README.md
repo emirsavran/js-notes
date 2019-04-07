@@ -7,6 +7,7 @@ Notes About JavaScript
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Practical Node](https://github.com/azat-co/practicalnode)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Serverless Stack](https://serverless-stack.com/)
 
 ## General
 
